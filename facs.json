@@ -1,0 +1,73 @@
+[
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe1"},
+    "name": "Sports Room",
+    "email": "sportsroom@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe2"},
+    "name": "Arts Room",
+    "email": "artsroom@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe3"},
+    "name": "Auditorium",
+    "email": "auditorium@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe4"},
+    "name": "Class F103",
+    "email": "classf103@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe5"},
+    "name": "Computer Lab",
+    "email": "computerlab@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe6"},
+    "name": "Library",
+    "email": "library@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe7"},
+    "name": "Gymnasium",
+    "email": "gymnasium@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe8"},
+    "name": "Conference Room",
+    "email": "conferenceroom@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fe9"},
+    "name": "Swimming Pool",
+    "email": "swimmingpool@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  },
+  {
+    "_id": {"$oid": "61fd4b2c1bf4e51c9f8a0fea"},
+    "name": "Cafeteria",
+    "email": "cafeteria@facility.com",
+    "password": "password123",
+    "type": "Facility"
+  }
+]
+

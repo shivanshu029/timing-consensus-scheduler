@@ -1,0 +1,63 @@
+[
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a731a" },
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a731b" },
+    "name": "Alice Smith",
+    "email": "alicesmith@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a731c" },
+    "name": "Bob Johnson",
+    "email": "bobjohnson@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a731d" },
+    "name": "Emma Lee",
+    "email": "emmalee@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a731e" },
+    "name": "David Brown",
+    "email": "davidbrown@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a731f" },
+    "name": "Grace Chen",
+    "email": "gracechen@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a7320" },
+    "name": "Henry Davis",
+    "email": "henrydavis@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a7321" },
+    "name": "Olivia Adams",
+    "email": "oliviaadams@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a7322" },
+    "name": "Sophia Kim",
+    "email": "sophiakim@example.com",
+    "password": "password123"
+  },
+  {
+    "_id": { "$oid": "61f4385e5bb2c91f5b5a7323" },
+    "name": "William Jones",
+    "email": "williamjones@example.com",
+    "password": "password123"
+  }
+]
+

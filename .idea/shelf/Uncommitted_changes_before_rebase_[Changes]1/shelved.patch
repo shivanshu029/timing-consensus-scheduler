@@ -1,0 +1,11 @@
+Index: .vscode/settings.json
+===================================================================
+diff --git a/.vscode/settings.json b/.vscode/settings.json
+deleted file mode 100644
+--- a/.vscode/settings.json	(revision 60dbcec8bfc61e797b7b0de7881ae33eef22da79)
++++ /dev/null	(revision 60dbcec8bfc61e797b7b0de7881ae33eef22da79)
+@@ -1,3 +0,0 @@
+-{
+-    "java.compile.nullAnalysis.mode": "automatic"
+-}
+\ No newline at end of file
